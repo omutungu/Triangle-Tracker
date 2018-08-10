@@ -1,8 +1,6 @@
-
 h1 {
-        width: 300px;
-        border: 10px solid green;
+       text-align: center;      
+        border: 10px solid black;
         padding: 25px;
-        margin: 25px;
-        float: center;
-}
+
+      }
