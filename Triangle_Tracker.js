@@ -1,7 +1,7 @@
-function getTriangle(){
-var a = parseFloat(prompt("side a"));
-var b = parseFloat(prompt("side b"));
-var c = parseFloat(prompt("side c"));
+function Triangle(){
+var a = parseFloat(prompt("Enter side a"));
+var b = parseFloat(prompt("Enter side b"));
+var c = parseFloat(prompt("Enter side c"));
 /* var determine = function(a, b, c){
 if (a === b && b === c && a === c){
  alert("Equilateral Triange");
@@ -27,4 +27,4 @@ else{
 alert("Scalar");
 }
 }
-getTriangle();
+Triangle();
