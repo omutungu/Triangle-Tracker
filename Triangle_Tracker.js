@@ -27,4 +27,4 @@ else{
 alert("Scalar");
 }
 }
-Triangle();
+Triangle()
